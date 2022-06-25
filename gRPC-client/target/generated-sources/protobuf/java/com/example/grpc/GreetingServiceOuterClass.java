@@ -1283,9 +1283,9 @@ public final class GreetingServiceOuterClass {
       "\n\025GreetingService.proto\022\020com.example.grp" +
       "c\"-\n\014HelloRequest\022\014\n\004name\030\001 \001(\t\022\017\n\007hobbi" +
       "es\030\002 \001(\t\"!\n\rHelloResponse\022\020\n\010greeting\030\001 " +
-      "\001(\t2^\n\017GreetingService\022K\n\010greeting\022\036.com" +
+      "\001(\t2`\n\017GreetingService\022M\n\010greeting\022\036.com" +
       ".example.grpc.HelloRequest\032\037.com.example" +
-      ".grpc.HelloResponseb\006proto3"
+      ".grpc.HelloResponse0\001b\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

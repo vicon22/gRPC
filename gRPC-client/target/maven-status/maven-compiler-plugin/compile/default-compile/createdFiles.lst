@@ -11,7 +11,6 @@ com/example/grpc/GreetingServiceGrpc$MethodHandlers.class
 com/example/grpc/GreetingServiceOuterClass$HelloRequest$Builder.class
 com/example/grpc/GreetingServiceOuterClass$HelloResponse$Builder.class
 com/example/grpc/GreetingServiceGrpc$GreetingServiceFutureStub.class
-org/example/App.class
 com/example/grpc/GreetingServiceGrpc$GreetingServiceMethodDescriptorSupplier.class
 com/example/grpc/GreetingServiceOuterClass$HelloResponse$1.class
 com/example/grpc/GreetingServiceGrpc$GreetingServiceImplBase.class
